@@ -1,0 +1,13 @@
+29.12.2018 16:38:52	This log contains information about the import operation of the script 'instnwnd.sql' into project 'Northwind1.0' on computer 'DESKTOP-DLM25G9' by user'Korch.
+29.12.2018 16:38:52	Started importing file: G:\Projects\sqlBasic\instnwnd.sql 
+29.12.2018 16:38:52	File name G:\Projects\sqlBasic\instnwnd.sql (size: 2115020)
+29.12.2018 16:38:52	Parsing import script
+29.12.2018 16:38:53	Total number of batches in script: 397
+29.12.2018 16:38:53	Total number of statements in script: 72
+29.12.2018 16:38:53	The script was successfully imported into the project.
+29.12.2018 16:38:53	Analyzing schema objects...
+29.12.2018 16:38:53	Scanning project for duplicate elements
+29.12.2018 16:38:53	Finished duplicate element processing
+29.12.2018 16:38:53	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+29.12.2018 16:38:53	A summary of the import was saved to the following location: C:\Users\Korch\source\repos\sqlBasic\Northwind1.0\Import Script Logs\instnwnd_sql_20181229013852.log
+29.12.2018 16:38:53	Click Finish to continue...
